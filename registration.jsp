@@ -21,7 +21,9 @@
         <form ACTION="RegistrationServlet" METHOD="POST">
             
           IME: 
-          <input type="text" name="ime"> <br/>    
+          <input type="text" name="ime"> <br/>  
+            IME: 
+          <input type="text" name="ime"> <br/> 
          
          PREZIME: 
           <input type="text" name="prezime"> <br/> 
